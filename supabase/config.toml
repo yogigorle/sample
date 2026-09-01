@@ -1,0 +1,2 @@
+[functions.cleanup-session]
+verify_jwt = false
